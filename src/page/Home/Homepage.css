@@ -1,0 +1,15 @@
+.heading {
+  height: 2rem;
+  width: 80vw;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+}
+
+.heading p {
+  color: blue;
+  font-size: 2rem;
+  font-family: Nunito;
+}
