@@ -1,0 +1,16 @@
+.box {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  gap: 5rem;
+  padding: 10px 20px;
+}
+
+
+.todo-input {
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+  width: 15rem;
+}
